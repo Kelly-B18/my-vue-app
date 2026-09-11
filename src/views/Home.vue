@@ -39,8 +39,8 @@
     <!-- Right Brand Card Column with Gradient -->
     <div class="card-column">
       <div class="brand-card">
-        <img src="@/assets/cpu-1.jpg" alt="CPU Seal" class="card-logo" />
-        <h2 class="card-title">Central Philippine University</h2>
+        <img src="@/assets/cpu-1.jpg" alt="Custom Logo" class="card-logo" />
+        <h2 class="card-title">Broke Institute of Technology</h2>
         <p class="card-motto">SCIENTIA ET FIDES</p>
         <div class="quote-box">
           <p class="quote-text">"A Heritage of Excellence, A Future of Faith"</p>
