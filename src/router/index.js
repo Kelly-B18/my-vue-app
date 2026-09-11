@@ -54,8 +54,8 @@ component: SampleMethod
 {
 path: '/sample-vmodel',
 name: 'sampleVmodel',
-    omponent: SampleVmodel
-},
+component: SampleVmodel // Ensure the 'V' here matches your top import variable name exactly!
+}
 
 
 ]
