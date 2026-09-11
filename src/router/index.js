@@ -4,7 +4,7 @@ import Home from '@/views/Home.vue'
 import About from '@/views/about.vue'
 import Admissions from '@/views/Admissions.vue'
 import Academics from '@/views/Academics.vue'
-import CampusLife from '@/views/CampusLife.vue'
+import CampusLife from '@/views/Campuslife.vue'
 
 const router = createRouter({
 
