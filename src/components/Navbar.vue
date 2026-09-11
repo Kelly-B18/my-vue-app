@@ -10,7 +10,7 @@ import search from '@/assets/magnifying-glass-solid-1.png';
 <img :src="imgSrc" alt="CPU Logo">
 <div class="top-title">
 <h2 class="card-title">Broke Institute of Technology</h2>
-<h5>SCIENTIA ET FIDES</h5>
+<h5>BIT</h5>
 </div>
 <div class="nav-links">
 <RouterLink to="/" class="nav-item" id="btn-home">Home</RouterLink>
