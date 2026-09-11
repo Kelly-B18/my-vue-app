@@ -9,7 +9,7 @@ import search from '@/assets/magnifying-glass-solid-1.png';
 <div class="top">
 <img :src="imgSrc" alt="CPU Logo">
 <div class="top-title">
-<h2>Central Philippine University</h2>
+<h2 class="card-title">Broke Institute of Technology</h2>
 <h5>SCIENTIA ET FIDES</h5>
 </div>
 <div class="nav-links">
