@@ -5,9 +5,9 @@
       <span class="established-text">ESTABLISHED 1905</span>
       <h1 class="main-heading">Exemplary Christian Education for Life.</h1>
       <p class="description-text">
-        A leading Christian institution in the Philippines, Central Philippine University 
+        A leading Christian institution in the Philippines, Broke Institute of Technology 
         nurtures intellectual growth and spiritual development through a commitment to 
-        <span class="italic-gold">Scientia et Fides</span> (Science and Faith).
+        <span class="italic-gold">BIT</span> (Science and Faith).
       </p>
       
       <div class="button-group">
@@ -41,7 +41,7 @@
       <div class="brand-card">
         <img src="@/assets/cpu-1.jpg" alt="Custom Logo" class="card-logo" />
         <h2 class="card-title">Broke Institute of Technology</h2>
-        <p class="card-motto">SCIENTIA ET FIDES</p>
+        <p class="card-motto">BIT</p>
         <div class="quote-box">
           <p class="quote-text">"A Heritage of Excellence, A Future of Faith"</p>
         </div>
