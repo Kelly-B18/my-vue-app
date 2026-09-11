@@ -1,7 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 
 import Home from '@/views/Home.vue'
-import About from '@/views/About.vue'
+import About from '@/views/about.vue'
 import Admissions from '@/views/Admissions.vue'
 import Academics from '@/views/Academics.vue'
 import CampusLife from '@/views/CampusLife.vue'
