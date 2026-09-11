@@ -13,11 +13,12 @@ import search from '@/assets/magnifying-glass-solid-1.png';
 <h5>BIT</h5>
 </div>
 <div class="nav-links">
-<RouterLink to="/" class="nav-item" id="btn-home">Home</RouterLink>
-<RouterLink to="/about" class="nav-item" id="btn-about">About</RouterLink>
-<RouterLink to="/admissions" class="nav-item" id="btn-admissions">Admissions</RouterLink>
-<RouterLink to="/academics" class="nav-item" id="btn-academics">Academics</RouterLink>
-<RouterLink to="/campuslife" class="nav-item" id="btn-campuslife">Campus Life</RouterLink>
+      <router-link to="/" class="nav-item" id="btn-home">Home</router-link>
+      <router-link to="/about" class="nav-item" id="btn-about">About</router-link>
+      <router-link to="/admissions" class="nav-item" id="btn-admissions">Admissions</router-link>
+      <router-link to="/academics" class="nav-item" id="btn-academics">Academics</router-link>
+      <router-link to="/campuslife" class="nav-item" id="btn-campuslife">Campus Life</router-link>
+      <router-link to="/sample-data" class="nav-item" id="btn-sample">Sample Data</router-link>
 </div>
 <img :src="search" alt="Search Icon" class="search-icon">
 <RouterLink to="/sample-data">Sample Data</RouterLink>
