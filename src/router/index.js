@@ -6,6 +6,9 @@ import Admissions from '@/views/Admissions.vue'
 import Academics from '@/views/Academics.vue'
 import CampusLife from '@/views/Campuslife.vue'
 import SampleData from '@/views/SampleData.vue'
+import SampleMethod from '@/views/SampleMethod.vue'
+import SampleVmodel from '@/views/SampleVmodel.vue'
+
 
 const router = createRouter({
 
@@ -40,8 +43,20 @@ component: CampusLife
 { 
 path: '/sample-data', 
 name: 'sampleData', 
-component: SampleData
-}
+component: SampleData 
+},
+
+{
+path: '/sample-methods',
+name: 'sampleMethod',
+component: SampleMethod
+},
+{
+path: '/sample-vmodel',
+name: 'sampleVmodel',
+    omponent: SampleVmodel
+},
+
 
 ]
 
