@@ -18,6 +18,7 @@ import search from '@/assets/magnifying-glass-solid-1.png';
 <RouterLink to="/admissions" class="nav-item" id="btn-admissions">Admissions</RouterLink>
 <RouterLink to="/academics" class="nav-item" id="btn-academics">Academics</RouterLink>
 <RouterLink to="/campuslife" class="nav-item" id="btn-campuslife">Campus Life</RouterLink>
+<RouterLink to="/Portal Login" class="nav-item" id="btn-Portal Login>Sample Data</RouterLink>
 </div>
 <img :src="search" alt="Search Icon" class="search-icon">
 <RouterLink to="/sample-data">Sample Data</RouterLink>
