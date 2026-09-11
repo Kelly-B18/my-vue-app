@@ -20,6 +20,7 @@ import search from '@/assets/magnifying-glass-solid-1.png';
 <RouterLink to="/campuslife" class="nav-item" id="btn-campuslife">Campus Life</RouterLink>
 </div>
 <img :src="search" alt="Search Icon" class="search-icon">
+<RouterLink to="/sample-data">Sample Data</RouterLink>
 <button class="portal">
 <img :src="user" alt="User Icon">
 <span>Portal Login</span>

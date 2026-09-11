@@ -5,6 +5,7 @@ import About from '@/views/about.vue'
 import Admissions from '@/views/Admissions.vue'
 import Academics from '@/views/Academics.vue'
 import CampusLife from '@/views/Campuslife.vue'
+import SampleData from '@/views/SampleData.vue'
 
 const router = createRouter({
 
@@ -35,6 +36,11 @@ component: Academics
 path: '/campus life',
 name: 'campus life',
 component: CampusLife
+},
+{ 
+path: '/sample-data', 
+name: 'sampleData', 
+component: SampleData
 }
 
 ]
